@@ -86,7 +86,6 @@
     "@next/env": "13.4.6-canary.7",
     "@swc/helpers": "0.5.1",
     "busboy": "1.6.0",
-    "caniuse-lite": "^1.0.30001406",
     "postcss": "8.4.14",
     "styled-jsx": "5.1.1",
     "watchpack": "2.4.0",
@@ -111,6 +110,7 @@
     }
   },
   "devDependencies": {
+     "caniuse-lite": "^1.0.30001406",
     "@ampproject/toolbox-optimizer": "2.8.3",
     "@babel/code-frame": "7.12.11",
     "@babel/core": "7.18.0",
